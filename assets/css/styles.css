@@ -269,19 +269,19 @@ body.dark-theme {
   transition: .3s;
   margin: 1rem 0;
 }
-.profile__social-link:nth-child(1) {
+.profile__social-link:nth-child(2) {
   color: red;
 }
-.profile__social-link:nth-child(2) {
+.profile__social-link:nth-child(3) {
   color: dodgerblue;
 }
-.profile__social-link:nth-child(3) {
+.profile__social-link:nth-child(4) {
   color: var(--title-color);
 }
-.profile__social-link:nth-child(4) {
+.profile__social-link:nth-child(5) {
   color: #c71610;
 }
-.profile__social-link:nth-child(5) {
+.profile__social-link:nth-child(6) {
   color: #25d366;
 }
 
