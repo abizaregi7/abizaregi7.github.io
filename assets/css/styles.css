@@ -270,10 +270,10 @@ body.dark-theme {
   margin: 1rem 0;
 }
 .profile__social-link:nth-child(1) {
-  color: red;
+  color: var(--title-color);
 }
 .profile__social-link:nth-child(2) {
-  color: var(--title-color);
+  color: red;
 }
 .profile__social-link:nth-child(3) {
   color: dodgerblue;
