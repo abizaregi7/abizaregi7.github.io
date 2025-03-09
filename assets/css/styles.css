@@ -269,8 +269,11 @@ body.dark-theme {
   transition: .3s;
   margin: 1rem 0;
 }
-.profile__social-link:nth-child(2) {
+.profile__social-link:nth-child(1) {
   color: red;
+}
+.profile__social-link:nth-child(2) {
+  color: var(--title-color);
 }
 .profile__social-link:nth-child(3) {
   color: dodgerblue;
@@ -283,6 +286,9 @@ body.dark-theme {
 }
 .profile__social-link:nth-child(6) {
   color: #25d366;
+}
+.profile__social-link:nth-child(7) {
+  color: var(--title-color);
 }
 
 .profile__info {
